@@ -1,0 +1,1 @@
+S = urlread('http://api.met.no/weatherapi/sunrise/1.1/?lat=43.6;lon=1.4;date=2017-10-02');
